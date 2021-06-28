@@ -30,4 +30,7 @@ switch (digit) {
     case '0':
         console.log("Zero");
         break;
+
+    default:
+        console.log("Enter Correct Choice");
 }
